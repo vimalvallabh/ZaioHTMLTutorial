@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+    
+    <meta charset="utf-8" />
+    <meta name="keywords" content="fish, smelly, trout, salmon, shark">
+    <meta name="description" content="we sell the smelliest fish online, guarunteed!">
+    <title>Mr Green's Smelly Fish Emporium</title>
+    <link rel="stylesheet" type="text/css" href="../CSS/main.css">
+       
+       
+    </head>
+<head>
+<body>
+    
+    <div id="top"> </div>
+    
+    <div id="header">
+    <img src="../img/smellyfishbanner.jpg" alt="Mr Green's Fish Emporium"/>
+         
+    <h1>Welcome to my smelly fish shop</h1>
+    <p> We sell the smelliest fish on the planet.</p> 
+   
+    </div>
+    
+    <hr>
+    
+    <div id="navigation">
+        <ul>
+           <li> <a onclick="alert('Yo ninja, welcome to my website')"  ; href="contact.html">Contact Us</a></li>
+           <li> <a href="../Prices/FreshwaterFishprices.html"> Pricelist</a></li>
+            <li><a href="http://wwww.netninja.co.uk" target="_blank"> Try out some awesome web tutorials</a></li>
+            <li><a href="../Downloads/Young%20investment%20professional%20flyer_LinkedIn%20landscape.pdf"> Download our full rpicelist </a> </li>
+            <li><a href="how-to.html"> How to catch one</a></li>
+        </ul>
+    </div>
+    
+    <hr>
+    
+    <div id="types-of-fish">
+            <h2> Types of fish we sell</h2>
+        <h3> Fresh Water Fish</h3>
+        <p> We are experts in catching many types of freshwater fish...</p>
+        <h3> Saltwater Fish</h3> 
+        <p> Weare experts in chatching many type of saltwater fish</p>
+    
+    </div>
+    
+    <div id="about-us"> 
+            <h2> About Us</h2>
+        <p> Mr Green's Smelly Fish EMporium prides itself on catching, preparing and delivering the smelliest fish right to your doorstep.<br>Whether you like to cook them, feed them to your cat or justhide them in your  unruly neighbour's proch, Mr Green has it covered.</p>
+    </div>
+    
+    <div id="contact-us"> 
+            <h2> Contact Us</h2>
+        <p> you can  contact Mr Green in various ways...</p>
+        <div class="contact-method">
+            <h3> By phone</h3>
+            <p>222-222-FISH</p>
+        </div>
+        <div class="contact-method">
+            <h3> By email </h3>
+        <p>iammrgreen@smellyfish.com</p>
+        </div>
+        <div class="contact-method"> 
+            <h3> by carrier pigeon</h3>
+        <p>To do this, order your pigeon at www.mrgreenscarrierpigeons.com</p>
+        </div>
+       
+    </div>
+   
+    <a href="#top">to top</a>
+   
+    
+    
+    </body>
+    
+     </head>
+    </html>
+    
